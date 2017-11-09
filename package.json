@@ -1,0 +1,9 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode for fun",
+  "scripts": {},
+  "author": "Leo Tse",
+  "license": "ISC",
+  "dependencies": {}
+}
